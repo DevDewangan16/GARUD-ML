@@ -12,3 +12,5 @@ The Gunshot Detection and Localization System is designed to enhance the safety 
 - **Machine Learning Integration**: Combines machine learning algorithms with beamforming techniques to achieve high detection accuracy.
 - **Visual Outputs and Alerts**: Provides actionable intelligence through visual outputs and real-time alerts for personnel.
 - **Detailed Report Generation**: Generates comprehensive reports using Generative AI for analysis and documentation.
+
+Happy Coding!
